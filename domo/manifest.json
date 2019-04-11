@@ -2,8 +2,8 @@
   "name": "Project",
   "mapping": [
     {
-      "alias": "sales",
-      "dataSetId": "",
+      "alias": "pump_failure",
+      "dataSetId": "95e569b4-b034-474c-8198-d67ec8eec231",
       "fields": []
     }
   ],
@@ -11,5 +11,6 @@
   "size": {
     "width": 5,
     "height": 3
-  }
+  },
+  "id": "c1e2fe68-dae4-4fa1-b73d-a289f6be0505"
 }
